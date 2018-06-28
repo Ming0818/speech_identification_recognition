@@ -12,3 +12,5 @@ gmm.py - Implements 3 utility functions: log observation probability of x_t for 
 Second stage:
 
 levenshtein.py - Evaluates two Automatic Speech Recognition engines: Kaldi and Google Speech API using the Word Error Rate derived from levenshtein distance.
+
+Request the data.
